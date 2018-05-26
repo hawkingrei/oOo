@@ -56,7 +56,7 @@ fpath=(/usr/local/share/zsh-completions $fpath)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthousee
 #nstall autojump Add wisely, as too many plugins slow down shell startup.
-plugins=(git autojump timme)
+plugins=(git autojump timme osx)
 
 # User configuration
 
